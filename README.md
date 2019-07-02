@@ -1,7 +1,5 @@
                                               F.D.F : Fil de fer
                                               
-125/125 with 2 Outstanding Project
-
 EN :
 
 In this project you will discover the basics of graphic programming, and in particular how
